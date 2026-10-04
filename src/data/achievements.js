@@ -1,0 +1,1 @@
+export const achievements=[{big:'1000+',label:'SkillRack problems solved'},{big:'100+',label:'LeetCode problems solved'},{big:'Round 2',label:'HackWithInfy'},{big:'AIR 77',label:'India AI Impact Buildathon — top 2% national finalist'}]
